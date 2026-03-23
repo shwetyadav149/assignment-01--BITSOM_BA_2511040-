@@ -1,0 +1,31 @@
+[
+  {
+    "product_id": "E101",
+    "name": "iPhone 15",
+    "category": "Electronics",
+    "price": 80000,
+    "specs": {
+      "warranty": "1 year",
+      "voltage": "220V"
+    }
+  },
+  {
+    "product_id": "C101",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "sizes": ["S", "M", "L"],
+    "material": "Cotton"
+  },
+  {
+    "product_id": "G101",
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 60,
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "calories": 150,
+      "protein": "8g"
+    }
+  }
+]
