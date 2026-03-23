@@ -1,0 +1,301 @@
+transaction_id,date,store_name,store_city,product_name,category,units_sold,unit_price,customer_id
+TXN5000,29-08-2023,Chennai Anna,Chennai,Speaker,electronics,3,49262.78,CUST045
+TXN5001,12-12-2023,Chennai Anna,Chennai,Tablet,Electronics,11,23226.12,CUST021
+TXN5002,05-02-2023,Chennai Anna,Chennai,Phone,Electronics,20,48703.39,CUST019
+TXN5003,20-02-2023,Delhi South,Delhi,Tablet,Electronics,14,23226.12,CUST007
+TXN5004,15-01-2023,Chennai Anna,Chennai,Smartwatch,electronics,10,58851.01,CUST004
+TXN5005,09-08-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,12,52464,CUST027
+TXN5006,31-03-2023,Pune FC Road,Pune,Smartwatch,electronics,6,58851.01,CUST025
+TXN5007,26-10-2023,Pune FC Road,Pune,Jeans,Clothing,16,2317.47,CUST041
+TXN5008,08-12-2023,Bangalore MG,Bangalore,Biscuits,Groceries,9,27469.99,CUST030
+TXN5009,15-08-2023,Bangalore MG,Bangalore,Smartwatch,electronics,3,58851.01,CUST020
+TXN5010,04-06-2023,Chennai Anna,Chennai,Jacket,Clothing,15,30187.24,CUST031
+TXN5011,20-10-2023,Mumbai Central,Mumbai,Jeans,Clothing,13,2317.47,CUST045
+TXN5012,21-05-2023,Bangalore MG,Bangalore,Laptop,Electronics,13,42343.15,CUST044
+TXN5013,28-04-2023,Mumbai Central,Mumbai,Milk 1L,Groceries,10,43374.39,CUST015
+TXN5014,18-11-2023,Delhi South,Delhi,Jacket,Clothing,5,30187.24,CUST042
+TXN5015,18-01-2023,Mumbai Central,Mumbai,Saree,Clothing,15,35451.81,CUST009
+TXN5016,01-08-2023,Mumbai Central,Mumbai,Saree,Clothing,11,35451.81,CUST035
+TXN5017,12-05-2023,Bangalore MG,Bangalore,Jacket,Clothing,6,30187.24,CUST019
+TXN5018,08-02-2023,Bangalore MG,Bangalore,Headphones,Electronics,15,39854.96,CUST015
+TXN5019,22-07-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,3,52464,CUST008
+TXN5020,27-10-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,9,52464,CUST024
+TXN5021,13-01-2023,Mumbai Central,Mumbai,Jeans,Clothing,16,2317.47,CUST036
+TXN5022,22-11-2023,Bangalore MG,Bangalore,Jeans,Clothing,3,2317.47,CUST020
+TXN5023,24-01-2023,Chennai Anna,Chennai,Headphones,Electronics,5,39854.96,CUST032
+TXN5024,03-10-2023,Mumbai Central,Mumbai,Headphones,Electronics,8,39854.96,CUST024
+TXN5025,21-03-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,19,31604.47,CUST032
+TXN5026,17-01-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,9,31604.47,CUST029
+TXN5027,20-02-2023,Chennai Anna,Chennai,Jeans,Clothing,12,2317.47,CUST042
+TXN5028,22-05-2023,Bangalore MG,Bangalore,Phone,Electronics,13,48703.39,CUST030
+TXN5029,11-01-2023,Mumbai Central,Mumbai,T-Shirt,Clothing,20,29770.19,CUST016
+TXN5030,11-10-2023,Delhi South,Delhi,T-Shirt,Clothing,3,29770.19,CUST015
+TXN5031,02-01-2023,Bangalore MG,Bangalore,Speaker,electronics,20,49262.78,CUST010
+TXN5032,26-02-2023,Delhi South,Delhi,Jacket,Clothing,6,30187.24,CUST009
+TXN5033,29-10-2023,Mumbai Central,,Atta 10kg,Grocery,8,52464,CUST017
+TXN5034,27-09-2023,Mumbai Central,Mumbai,Speaker,electronics,14,49262.78,CUST031
+TXN5035,31-10-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,17,52464,CUST015
+TXN5036,04-06-2023,Pune FC Road,Pune,Phone,Electronics,17,48703.39,CUST002
+TXN5037,07-08-2023,Mumbai Central,Mumbai,Milk 1L,Groceries,13,43374.39,CUST046
+TXN5038,14-06-2023,Chennai Anna,Chennai,Tablet,Electronics,3,23226.12,CUST009
+TXN5039,02-11-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,13,52195.05,CUST033
+TXN5040,26-12-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,4,31604.47,CUST042
+TXN5041,20-08-2023,Pune FC Road,Pune,T-Shirt,Clothing,14,29770.19,CUST030
+TXN5042,10-06-2023,Chennai Anna,Chennai,Pulses 1kg,Grocery,4,31604.47,CUST017
+TXN5043,04-02-2023,Bangalore MG,Bangalore,Speaker,electronics,16,49262.78,CUST006
+TXN5044,08-03-2023,Chennai Anna,,Headphones,Electronics,12,39854.96,CUST036
+TXN5045,30-07-2023,Pune FC Road,Pune,Rice 5kg,Grocery,4,52195.05,CUST049
+TXN5046,04-11-2023,Chennai Anna,Chennai,Phone,Electronics,10,48703.39,CUST037
+TXN5047,03-12-2023,Pune FC Road,Pune,T-Shirt,Clothing,5,29770.19,CUST007
+TXN5048,23-05-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,4,52464,CUST028
+TXN5049,03-12-2023,Pune FC Road,Pune,Laptop,Electronics,20,42343.15,CUST012
+TXN5050,29-06-2023,Bangalore MG,Bangalore,Saree,Clothing,11,35451.81,CUST010
+TXN5051,14-03-2023,Pune FC Road,Pune,Oil 1L,Grocery,3,26474.34,CUST002
+TXN5052,03-08-2023,Mumbai Central,Mumbai,T-Shirt,Clothing,13,29770.19,CUST024
+TXN5053,02-11-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,19,52195.05,CUST010
+TXN5054,20-05-2023,Delhi South,Delhi,Phone,Electronics,3,48703.39,CUST032
+TXN5055,20-05-2023,Pune FC Road,Pune,Biscuits,Groceries,14,27469.99,CUST008
+TXN5056,26-05-2023,Bangalore MG,Bangalore,Pulses 1kg,Grocery,4,31604.47,CUST032
+TXN5057,23-04-2023,Pune FC Road,Pune,Saree,Clothing,2,35451.81,CUST004
+TXN5058,19-04-2023,Mumbai Central,Mumbai,T-Shirt,Clothing,10,29770.19,CUST019
+TXN5059,12-09-2023,Bangalore MG,Bangalore,Headphones,Electronics,1,39854.96,CUST009
+TXN5060,14-10-2023,Chennai Anna,Chennai,Jeans,Clothing,17,2317.47,CUST005
+TXN5061,10-01-2023,Chennai Anna,Chennai,Phone,Electronics,14,48703.39,CUST021
+TXN5062,27-07-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,19,31604.47,CUST019
+TXN5063,16-06-2023,Mumbai Central,Mumbai,Oil 1L,Grocery,1,26474.34,CUST040
+TXN5064,12-08-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,3,52464,CUST038
+TXN5065,08-06-2023,Chennai Anna,Chennai,Tablet,Electronics,13,23226.12,CUST022
+TXN5066,21-11-2023,Delhi South,Delhi,Tablet,Electronics,17,23226.12,CUST013
+TXN5067,01-05-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,5,52464,CUST013
+TXN5068,01-04-2023,Delhi South,Delhi,Speaker,electronics,3,49262.78,CUST049
+TXN5069,26-11-2023,Pune FC Road,Pune,Biscuits,Groceries,19,27469.99,CUST021
+TXN5070,04-02-2023,Bangalore MG,Bangalore,Speaker,electronics,15,49262.78,CUST020
+TXN5071,17-09-2023,Bangalore MG,Bangalore,Phone,Electronics,12,48703.39,CUST029
+TXN5072,27-05-2023,Mumbai Central,Mumbai,Phone,Electronics,12,48703.39,CUST006
+TXN5073,25-10-2023,Pune FC Road,Pune,Oil 1L,Grocery,15,26474.34,CUST048
+TXN5074,30-11-2023,Mumbai Central,Mumbai,Biscuits,Groceries,19,27469.99,CUST031
+TXN5075,19-08-2023,Pune FC Road,Pune,Speaker,electronics,2,49262.78,CUST022
+TXN5076,07-05-2023,Mumbai Central,Mumbai,Smartwatch,electronics,2,58851.01,CUST029
+TXN5077,10-07-2023,Pune FC Road,Pune,Smartwatch,electronics,12,58851.01,CUST050
+TXN5078,03-02-2023,Bangalore MG,Bangalore,Phone,Electronics,11,48703.39,CUST044
+TXN5079,03-12-2023,Chennai Anna,Chennai,Saree,Clothing,9,35451.81,CUST022
+TXN5080,08-06-2023,Mumbai Central,Mumbai,Speaker,electronics,12,49262.78,CUST026
+TXN5081,14-10-2023,Delhi South,Delhi,Tablet,Electronics,10,23226.12,CUST022
+TXN5082,18-09-2023,Delhi South,,Tablet,Electronics,14,23226.12,CUST020
+TXN5083,06-09-2023,Delhi South,Delhi,T-Shirt,Clothing,11,29770.19,CUST009
+TXN5084,21-02-2023,Delhi South,Delhi,Tablet,Electronics,10,23226.12,CUST048
+TXN5085,13-11-2023,Pune FC Road,Pune,Phone,Electronics,11,48703.39,CUST010
+TXN5086,26-03-2023,Delhi South,Delhi,Smartwatch,electronics,20,58851.01,CUST027
+TXN5087,09-11-2023,Bangalore MG,Bangalore,Jeans,Clothing,15,2317.47,CUST029
+TXN5088,29-08-2023,Delhi South,Delhi,Jeans,Clothing,10,2317.47,CUST037
+TXN5089,15-07-2023,Chennai Anna,Chennai,Biscuits,Groceries,10,27469.99,CUST011
+TXN5090,27-01-2023,Delhi South,Delhi,Speaker,electronics,9,49262.78,CUST024
+TXN5091,05-03-2023,Pune FC Road,Pune,Headphones,Electronics,17,39854.96,CUST011
+TXN5092,17-03-2023,Bangalore MG,Bangalore,Biscuits,Groceries,17,27469.99,CUST015
+TXN5093,01-08-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,1,52464,CUST024
+TXN5094,11-07-2023,Delhi South,,Oil 1L,Grocery,3,26474.34,CUST007
+TXN5095,20-01-2023,Bangalore MG,Bangalore,Speaker,electronics,5,49262.78,CUST031
+TXN5096,12-11-2023,Delhi South,Delhi,Milk 1L,Groceries,15,43374.39,CUST002
+TXN5097,08-10-2023,Bangalore MG,Bangalore,T-Shirt,Clothing,5,29770.19,CUST028
+TXN5098,04-06-2023,Mumbai Central,,Saree,Clothing,8,35451.81,CUST027
+TXN5099,26-02-2023,Pune FC Road,Pune,Biscuits,Groceries,3,27469.99,CUST002
+TXN5100,30-05-2023,Pune FC Road,,Jeans,Clothing,5,2317.47,CUST023
+TXN5101,07-12-2023,Delhi South,Delhi,Pulses 1kg,Grocery,6,31604.47,CUST024
+TXN5102,29-08-2023,Mumbai Central,Mumbai,Laptop,Electronics,13,42343.15,CUST024
+TXN5103,04-02-2023,Bangalore MG,Bangalore,Laptop,Electronics,12,42343.15,CUST043
+TXN5104,23-01-2023,Mumbai Central,Mumbai,Rice 5kg,Grocery,5,52195.05,CUST042
+TXN5105,20-11-2023,Delhi South,Delhi,Biscuits,Groceries,16,27469.99,CUST005
+TXN5106,14-04-2023,Chennai Anna,Chennai,Phone,Electronics,10,48703.39,CUST003
+TXN5107,23-07-2023,Bangalore MG,Bangalore,Saree,Clothing,17,35451.81,CUST003
+TXN5108,25-01-2023,Delhi South,Delhi,Saree,Clothing,12,35451.81,CUST008
+TXN5109,14-08-2023,Bangalore MG,Bangalore,Pulses 1kg,Grocery,13,31604.47,CUST012
+TXN5110,23-09-2023,Chennai Anna,Chennai,Milk 1L,Groceries,12,43374.39,CUST047
+TXN5111,05-11-2023,Chennai Anna,Chennai,Tablet,Electronics,14,23226.12,CUST021
+TXN5112,05-12-2023,Mumbai Central,Mumbai,Tablet,Electronics,11,23226.12,CUST039
+TXN5113,29-06-2023,Chennai Anna,,Smartwatch,electronics,15,58851.01,CUST023
+TXN5114,24-11-2023,Pune FC Road,,Pulses 1kg,Grocery,9,31604.47,CUST041
+TXN5115,14-12-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,17,52464,CUST010
+TXN5116,06-03-2023,Pune FC Road,Pune,Biscuits,Groceries,2,27469.99,CUST042
+TXN5117,18-10-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,13,52464,CUST044
+TXN5118,16-08-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,12,52464,CUST034
+TXN5119,29-11-2023,Bangalore MG,Bangalore,Oil 1L,Grocery,11,26474.34,CUST008
+TXN5120,23-09-2023,Mumbai Central,Mumbai,Smartwatch,electronics,16,58851.01,CUST008
+TXN5121,20-04-2023,Bangalore MG,Bangalore,Jacket,Clothing,15,30187.24,CUST032
+TXN5122,07-02-2023,Delhi South,Delhi,Headphones,Electronics,5,39854.96,CUST046
+TXN5123,08-12-2023,Chennai Anna,Chennai,Tablet,Electronics,11,23226.12,CUST036
+TXN5124,22-03-2023,Pune FC Road,Pune,Saree,Clothing,10,35451.81,CUST045
+TXN5125,25-04-2023,Delhi South,Delhi,Atta 10kg,Grocery,17,52464,CUST009
+TXN5126,04-07-2023,Delhi South,Delhi,Milk 1L,Groceries,1,43374.39,CUST030
+TXN5127,14-02-2023,Pune FC Road,Pune,Speaker,electronics,20,49262.78,CUST046
+TXN5128,22-10-2023,Chennai Anna,Chennai,Pulses 1kg,Grocery,14,31604.47,CUST021
+TXN5129,15-12-2023,Mumbai Central,Mumbai,Biscuits,Groceries,15,27469.99,CUST050
+TXN5130,10-08-2023,Pune FC Road,Pune,Smartwatch,electronics,5,58851.01,CUST004
+TXN5131,26-03-2023,Mumbai Central,Mumbai,Speaker,electronics,10,49262.78,CUST046
+TXN5132,26-05-2023,Delhi South,Delhi,Atta 10kg,Grocery,17,52464,CUST041
+TXN5133,17-11-2023,Pune FC Road,Pune,Jacket,Clothing,5,30187.24,CUST006
+TXN5134,25-10-2023,Pune FC Road,Pune,Smartwatch,electronics,19,58851.01,CUST040
+TXN5135,22-01-2023,Pune FC Road,Pune,Rice 5kg,Grocery,19,52195.05,CUST042
+TXN5136,20-10-2023,Pune FC Road,Pune,Jacket,Clothing,7,30187.24,CUST002
+TXN5137,05-09-2023,Chennai Anna,Chennai,Saree,Clothing,10,35451.81,CUST044
+TXN5138,07-02-2023,Chennai Anna,,Saree,Clothing,15,35451.81,CUST029
+TXN5139,15-04-2023,Chennai Anna,Chennai,Milk 1L,Groceries,15,43374.39,CUST021
+TXN5140,08-03-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,13,52464,CUST007
+TXN5141,04-03-2023,Bangalore MG,Bangalore,Jeans,Clothing,15,2317.47,CUST010
+TXN5142,16-07-2023,Mumbai Central,Mumbai,Phone,Electronics,10,48703.39,CUST011
+TXN5143,23-03-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,7,52195.05,CUST030
+TXN5144,12-01-2023,Chennai Anna,Chennai,Saree,Clothing,16,35451.81,CUST033
+TXN5145,26-10-2023,Chennai Anna,,Jeans,Clothing,7,2317.47,CUST019
+TXN5146,02-10-2023,Chennai Anna,Chennai,Milk 1L,Groceries,10,43374.39,CUST028
+TXN5147,26-07-2023,Delhi South,,Jacket,Clothing,12,30187.24,CUST004
+TXN5148,11-10-2023,Pune FC Road,,T-Shirt,Clothing,12,29770.19,CUST033
+TXN5149,15-12-2023,Chennai Anna,Chennai,Jacket,Clothing,20,30187.24,CUST007
+TXN5150,13-10-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,11,52464,CUST013
+TXN5151,21-01-2023,Pune FC Road,,Oil 1L,Grocery,17,26474.34,CUST046
+TXN5152,22-08-2023,Bangalore MG,Bangalore,Milk 1L,Groceries,17,43374.39,CUST033
+TXN5153,13-06-2023,Delhi South,Delhi,Rice 5kg,Grocery,20,52195.05,CUST040
+TXN5154,18-09-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,17,52195.05,CUST037
+TXN5155,08-07-2023,Bangalore MG,Bangalore,Milk 1L,Groceries,1,43374.39,CUST027
+TXN5156,02-11-2023,Pune FC Road,Pune,Saree,Clothing,1,35451.81,CUST042
+TXN5157,26-10-2023,Pune FC Road,Pune,Jeans,Clothing,2,2317.47,CUST041
+TXN5158,15-12-2023,Pune FC Road,,Oil 1L,Grocery,5,26474.34,CUST045
+TXN5159,14-08-2023,Mumbai Central,Mumbai,T-Shirt,Clothing,1,29770.19,CUST027
+TXN5160,10-11-2023,Delhi South,Delhi,Pulses 1kg,Grocery,17,31604.47,CUST048
+TXN5161,17-04-2023,Mumbai Central,Mumbai,Speaker,electronics,17,49262.78,CUST043
+TXN5162,30-03-2023,Chennai Anna,Chennai,Oil 1L,Grocery,11,26474.34,CUST022
+TXN5163,09-11-2023,Pune FC Road,Pune,Atta 10kg,Grocery,9,52464,CUST016
+TXN5164,02-06-2023,Bangalore MG,Bangalore,Saree,Clothing,8,35451.81,CUST045
+TXN5165,28-06-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,16,52195.05,CUST047
+TXN5166,21-10-2023,Bangalore MG,Bangalore,Saree,Clothing,4,35451.81,CUST026
+TXN5167,22-01-2023,Bangalore MG,Bangalore,Speaker,electronics,10,49262.78,CUST006
+TXN5168,03-09-2023,Bangalore MG,Bangalore,Biscuits,Groceries,9,27469.99,CUST035
+TXN5169,25-02-2023,Bangalore MG,Bangalore,Jacket,Clothing,5,30187.24,CUST016
+TXN5170,26-04-2023,Delhi South,Delhi,Phone,Electronics,17,48703.39,CUST007
+TXN5171,21-02-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,16,52195.05,CUST001
+TXN5172,01-12-2023,Pune FC Road,Pune,Smartwatch,electronics,14,58851.01,CUST013
+TXN5173,27-11-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,10,52195.05,CUST006
+TXN5174,20-01-2023,Pune FC Road,Pune,Jeans,Clothing,18,2317.47,CUST012
+TXN5175,06-04-2023,Mumbai Central,Mumbai,Oil 1L,Grocery,16,26474.34,CUST019
+TXN5176,18-10-2023,Mumbai Central,Mumbai,Laptop,Electronics,10,42343.15,CUST022
+TXN5177,26-09-2023,Bangalore MG,Bangalore,Biscuits,Groceries,18,27469.99,CUST009
+TXN5178,09-04-2023,Pune FC Road,Pune,Biscuits,Groceries,9,27469.99,CUST047
+TXN5179,08-01-2023,Chennai Anna,Chennai,Jacket,Clothing,6,30187.24,CUST019
+TXN5180,09-11-2023,Pune FC Road,Pune,T-Shirt,Clothing,6,29770.19,CUST028
+TXN5181,25-07-2023,Pune FC Road,Pune,Rice 5kg,Grocery,3,52195.05,CUST009
+TXN5182,04-01-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,8,52195.05,CUST029
+TXN5183,26-10-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,10,52195.05,CUST017
+TXN5184,08-12-2023,Bangalore MG,Bangalore,Jeans,Clothing,2,2317.47,CUST011
+TXN5185,24-11-2023,Chennai Anna,Chennai,Saree,Clothing,4,35451.81,CUST015
+TXN5186,20-03-2023,Delhi South,Delhi,Speaker,electronics,16,49262.78,CUST039
+TXN5187,30-08-2023,Bangalore MG,Bangalore,Pulses 1kg,Grocery,18,31604.47,CUST014
+TXN5188,17-08-2023,Delhi South,Delhi,Tablet,Electronics,17,23226.12,CUST005
+TXN5189,08-10-2023,Pune FC Road,Pune,Headphones,Electronics,2,39854.96,CUST035
+TXN5190,24-09-2023,Delhi South,Delhi,Smartwatch,electronics,11,58851.01,CUST014
+TXN5191,19-09-2023,Pune FC Road,Pune,Milk 1L,Groceries,3,43374.39,CUST030
+TXN5192,16-10-2023,Delhi South,Delhi,Pulses 1kg,Grocery,15,31604.47,CUST044
+TXN5193,11-05-2023,Bangalore MG,Bangalore,Laptop,Electronics,13,42343.15,CUST038
+TXN5194,26-06-2023,Mumbai Central,,Phone,Electronics,14,48703.39,CUST004
+TXN5195,27-05-2023,Mumbai Central,Mumbai,Milk 1L,Groceries,2,43374.39,CUST009
+TXN5196,18-08-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,13,52464,CUST044
+TXN5197,02-03-2023,Pune FC Road,Pune,Speaker,electronics,12,49262.78,CUST026
+TXN5198,02-01-2023,Pune FC Road,Pune,Speaker,electronics,8,49262.78,CUST030
+TXN5199,14-07-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,18,31604.47,CUST023
+TXN5200,27-02-2023,Delhi South,Delhi,Jacket,Clothing,7,30187.24,CUST027
+TXN5201,16-04-2023,Pune FC Road,Pune,Laptop,Electronics,8,42343.15,CUST003
+TXN5202,23-01-2023,Chennai Anna,Chennai,Phone,Electronics,8,48703.39,CUST035
+TXN5203,15-09-2023,Delhi South,Delhi,Phone,Electronics,5,48703.39,CUST047
+TXN5204,03-11-2023,Pune FC Road,Pune,Rice 5kg,Grocery,19,52195.05,CUST016
+TXN5205,24-04-2023,Bangalore MG,Bangalore,Speaker,electronics,17,49262.78,CUST004
+TXN5206,12-10-2023,Pune FC Road,,Smartwatch,electronics,14,58851.01,CUST023
+TXN5207,29-07-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,14,52195.05,CUST012
+TXN5208,26-04-2023,Pune FC Road,Pune,Milk 1L,Groceries,8,43374.39,CUST010
+TXN5209,31-07-2023,Chennai Anna,Chennai,Phone,Electronics,18,48703.39,CUST009
+TXN5210,15-04-2023,Chennai Anna,Chennai,Jeans,Clothing,9,2317.47,CUST029
+TXN5211,08-04-2023,Bangalore MG,Bangalore,Tablet,Electronics,18,23226.12,CUST044
+TXN5212,07-04-2023,Pune FC Road,Pune,Phone,Electronics,3,48703.39,CUST036
+TXN5213,20-06-2023,Delhi South,Delhi,Milk 1L,Groceries,7,43374.39,CUST001
+TXN5214,03-09-2023,Delhi South,Delhi,T-Shirt,Clothing,4,29770.19,CUST046
+TXN5215,10-10-2023,Delhi South,Delhi,Oil 1L,Grocery,8,26474.34,CUST025
+TXN5216,14-05-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,10,52464,CUST032
+TXN5217,13-06-2023,Chennai Anna,Chennai,Headphones,Electronics,16,39854.96,CUST027
+TXN5218,09-01-2023,Mumbai Central,Mumbai,Jeans,Clothing,5,2317.47,CUST038
+TXN5219,20-03-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,10,31604.47,CUST025
+TXN5220,09-10-2023,Pune FC Road,Pune,Jeans,Clothing,16,2317.47,CUST022
+TXN5221,24-08-2023,Bangalore MG,Bangalore,Milk 1L,Groceries,16,43374.39,CUST023
+TXN5222,08-09-2023,Delhi South,Delhi,Speaker,electronics,18,49262.78,CUST035
+TXN5223,09-12-2023,Mumbai Central,Mumbai,Phone,Electronics,3,48703.39,CUST027
+TXN5224,29-12-2023,Delhi South,,Jeans,Clothing,3,2317.47,CUST033
+TXN5225,13-11-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,2,52464,CUST040
+TXN5226,04-01-2023,Chennai Anna,Chennai,Milk 1L,Groceries,1,43374.39,CUST001
+TXN5227,27-05-2023,Mumbai Central,Mumbai,Jacket,Clothing,18,30187.24,CUST045
+TXN5228,19-02-2023,Chennai Anna,Chennai,Smartwatch,electronics,4,58851.01,CUST013
+TXN5229,17-05-2023,Pune FC Road,,Jacket,Clothing,12,30187.24,CUST026
+TXN5230,03-06-2023,Chennai Anna,Chennai,Jeans,Clothing,8,2317.47,CUST006
+TXN5231,14-07-2023,Mumbai Central,Mumbai,Tablet,Electronics,13,23226.12,CUST004
+TXN5232,13-09-2023,Mumbai Central,Mumbai,Smartwatch,electronics,3,58851.01,CUST022
+TXN5233,22-01-2023,Pune FC Road,Pune,Headphones,Electronics,17,39854.96,CUST045
+TXN5234,24-01-2023,Pune FC Road,Pune,Milk 1L,Groceries,9,43374.39,CUST018
+TXN5235,11-06-2023,Pune FC Road,Pune,Phone,Electronics,6,48703.39,CUST038
+TXN5236,03-06-2023,Delhi South,Delhi,Oil 1L,Grocery,3,26474.34,CUST037
+TXN5237,13-03-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,13,52195.05,CUST033
+TXN5238,12-08-2023,Bangalore MG,Bangalore,Phone,Electronics,4,48703.39,CUST022
+TXN5239,16-01-2023,Pune FC Road,Pune,Oil 1L,Grocery,11,26474.34,CUST029
+TXN5240,11-10-2023,Chennai Anna,Chennai,Jeans,Clothing,12,2317.47,CUST044
+TXN5241,13-11-2023,Pune FC Road,Pune,Oil 1L,Grocery,3,26474.34,CUST046
+TXN5242,20-03-2023,Mumbai Central,Mumbai,Tablet,Electronics,9,23226.12,CUST041
+TXN5243,04-07-2023,Delhi South,Delhi,Oil 1L,Grocery,11,26474.34,CUST020
+TXN5244,22-02-2023,Chennai Anna,Chennai,Atta 10kg,Grocery,9,52464,CUST028
+TXN5245,14-01-2023,Chennai Anna,Chennai,Pulses 1kg,Grocery,4,31604.47,CUST006
+TXN5246,07-01-2023,Pune FC Road,Pune,Rice 5kg,Grocery,13,52195.05,CUST050
+TXN5247,24-09-2023,Mumbai Central,Mumbai,Jeans,Clothing,19,2317.47,CUST011
+TXN5248,18-05-2023,Delhi South,Delhi,Jacket,Clothing,10,30187.24,CUST011
+TXN5249,03-06-2023,Chennai Anna,Chennai,Jacket,Clothing,14,30187.24,CUST024
+TXN5250,01-11-2023,Bangalore MG,Bangalore,Jeans,Clothing,16,2317.47,CUST007
+TXN5251,22-07-2023,Delhi South,Delhi,Saree,Clothing,1,35451.81,CUST025
+TXN5252,09-08-2023,Bangalore MG,Bangalore,Biscuits,Groceries,11,27469.99,CUST009
+TXN5253,22-12-2023,Bangalore MG,Bangalore,Rice 5kg,Grocery,20,52195.05,CUST012
+TXN5254,22-12-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,10,52195.05,CUST037
+TXN5255,24-05-2023,Delhi South,Delhi,Rice 5kg,Grocery,13,52195.05,CUST037
+TXN5256,14-01-2023,Delhi South,Delhi,Smartwatch,electronics,18,58851.01,CUST046
+TXN5257,21-12-2023,Delhi South,Delhi,Biscuits,Groceries,10,27469.99,CUST027
+TXN5258,04-05-2023,Chennai Anna,Chennai,Speaker,electronics,10,49262.78,CUST046
+TXN5259,18-08-2023,Chennai Anna,Chennai,Oil 1L,Grocery,3,26474.34,CUST026
+TXN5260,19-01-2023,Pune FC Road,Pune,Pulses 1kg,Grocery,18,31604.47,CUST035
+TXN5261,08-05-2023,Pune FC Road,Pune,Tablet,Electronics,4,23226.12,CUST011
+TXN5262,27-11-2023,Pune FC Road,Pune,Phone,Electronics,19,48703.39,CUST049
+TXN5263,06-01-2023,Bangalore MG,Bangalore,Pulses 1kg,Grocery,4,31604.47,CUST033
+TXN5264,11-07-2023,Pune FC Road,Pune,Jeans,Clothing,15,2317.47,CUST044
+TXN5265,13-01-2023,Pune FC Road,Pune,Speaker,electronics,12,49262.78,CUST027
+TXN5266,28-06-2023,Mumbai Central,Mumbai,Headphones,Electronics,5,39854.96,CUST014
+TXN5267,01-09-2023,Pune FC Road,Pune,Milk 1L,Groceries,12,43374.39,CUST045
+TXN5268,03-06-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,3,52195.05,CUST008
+TXN5269,13-12-2023,Mumbai Central,Mumbai,Rice 5kg,Grocery,4,52195.05,CUST048
+TXN5270,23-03-2023,Delhi South,Delhi,Smartwatch,electronics,18,58851.01,CUST030
+TXN5271,06-04-2023,Delhi South,Delhi,Oil 1L,Grocery,6,26474.34,CUST026
+TXN5272,31-10-2023,Mumbai Central,Mumbai,T-Shirt,Clothing,15,29770.19,CUST046
+TXN5273,27-12-2023,Delhi South,Delhi,T-Shirt,Clothing,9,29770.19,CUST035
+TXN5274,11-04-2023,Delhi South,Delhi,Atta 10kg,Grocery,11,52464,CUST043
+TXN5275,18-07-2023,Chennai Anna,Chennai,Rice 5kg,Grocery,20,52195.05,CUST008
+TXN5276,13-11-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,15,52464,CUST046
+TXN5277,10-06-2023,Bangalore MG,Bangalore,Tablet,Electronics,5,23226.12,CUST008
+TXN5278,19-09-2023,Delhi South,Delhi,Atta 10kg,Grocery,5,52464,CUST009
+TXN5279,06-04-2023,Pune FC Road,Pune,Oil 1L,Grocery,14,26474.34,CUST045
+TXN5280,28-05-2023,Delhi South,Delhi,Smartwatch,electronics,16,58851.01,CUST029
+TXN5281,05-01-2023,Pune FC Road,Pune,Phone,Electronics,12,48703.39,CUST025
+TXN5282,17-12-2023,Pune FC Road,Pune,Milk 1L,Groceries,14,43374.39,CUST029
+TXN5283,17-10-2023,Chennai Anna,Chennai,Smartwatch,electronics,3,58851.01,CUST015
+TXN5284,26-04-2023,Bangalore MG,Bangalore,Phone,Electronics,9,48703.39,CUST050
+TXN5285,19-09-2023,Chennai Anna,Chennai,Milk 1L,Groceries,18,43374.39,CUST018
+TXN5286,22-01-2023,Pune FC Road,Pune,Atta 10kg,Grocery,18,52464,CUST014
+TXN5287,02-06-2023,Chennai Anna,Chennai,Headphones,Electronics,8,39854.96,CUST023
+TXN5288,02-05-2023,Mumbai Central,Mumbai,Biscuits,Groceries,4,27469.99,CUST038
+TXN5289,12-11-2023,Bangalore MG,Bangalore,Pulses 1kg,Grocery,6,31604.47,CUST014
+TXN5290,24-05-2023,Mumbai Central,Mumbai,Atta 10kg,Grocery,18,52464,CUST021
+TXN5291,17-05-2023,Bangalore MG,Bangalore,Saree,Clothing,19,35451.81,CUST044
+TXN5292,31-01-2023,Mumbai Central,Mumbai,Speaker,electronics,14,49262.78,CUST009
+TXN5293,31-12-2023,Delhi South,Delhi,Jeans,Clothing,5,2317.47,CUST049
+TXN5294,23-10-2023,Chennai Anna,Chennai,Milk 1L,Groceries,5,43374.39,CUST027
+TXN5295,21-11-2023,Chennai Anna,Chennai,Biscuits,Groceries,3,27469.99,CUST048
+TXN5296,07-09-2023,Bangalore MG,Bangalore,Atta 10kg,Grocery,15,52464,CUST050
+TXN5297,02-02-2023,Mumbai Central,Mumbai,Biscuits,Groceries,12,27469.99,CUST028
+TXN5298,15-06-2023,Delhi South,Delhi,Milk 1L,Groceries,9,43374.39,CUST037
+TXN5299,16-12-2023,Delhi South,,Milk 1L,Groceries,11,43374.39,CUST041
